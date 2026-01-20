@@ -12,7 +12,8 @@ bash
 
 ---
 
-Sobre o Projeto
+Sobre o Projeto:
+
 O Minecraft Data Miner & AutoML é uma aplicação desktop desenvolvida em Python que combina análise de dados avançada com a estética icônica do Minecraft. Projetado para cientistas de dados, analistas e fãs do Minecraft, esta ferramenta transforma tarefas complexas de análise de dados em uma experiência imersiva e intuitiva.
 
 Neste universo:
