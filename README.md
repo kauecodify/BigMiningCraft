@@ -6,8 +6,9 @@ para adultos e crianças...
 
 rodar no spyder facilitar commits
 
-bash 
-conda install tk pandas numpy matplotlib seaborn scikit-learn
+bash
+
+"conda install tk pandas numpy matplotlib seaborn scikit-learn"
 
 ---
 
